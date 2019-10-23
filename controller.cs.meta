@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 9d5ef007f78db264d9c93ccc6150e2e0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - silverCubePrefab: {fileID: 3388280669231939190, guid: 29cacb9084ca05d448c1326027d0dffe,
+      type: 3}
+  - bronzeCubePrefab: {fileID: 3855303340358607183, guid: fa7c1d22d15fcca47aef99f990c17d9d,
+      type: 3}
+  - goldCubePrefab: {fileID: 5496246371689036705, guid: 6d7b58366260d5347a975d06e5dd4a11,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
